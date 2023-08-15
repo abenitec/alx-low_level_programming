@@ -1,1 +1,1 @@
-#define 1024 size
+#define SIZE 1024
